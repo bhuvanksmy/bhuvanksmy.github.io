@@ -1,18 +1,6 @@
 
 Welcome to My GitHub Profile
-Hi, I am Bhuvana, a passionate tech professional with a background in Computer Applications. I have dedicated several valuable years to raising my children. Fortunately, they are now ready for school, and I am thrilled to resume my professional journey.
-
-About Me
-With a robust background in migrating data from legacy systems to SAP & ERP systems, I have a proven track record of ensuring seamless transitions and data integrity. My technical experience is complemented by expertise in data analysis, honed through the MARS Returnship program, and data engineering, developed with Per Scholas.
-
-Skills and Expertise
-Data Migration: Expertise in migrating data from legacy systems to modern SAP & ERP systems.
-Data Analysis: Skilled in analyzing complex datasets to extract actionable insights.
-Data Engineering: Proficient in designing and implementing data workflows to transform raw data into meaningful reports.
-
-Learning and Development
-MARS Returnship Program: Enhanced my skills in data analysis, focusing on transforming data into actionable insights.
-Per Scholas: Developed my abilities in data engineering, ensuring the accuracy and relevance of data for decision-making.
+Hi, I am Bhuvana, Dedicated technology professional with a Master's degree in Computer Applications and over four years of experience in data analysis and migration from legacy systems to ERP/SAP systems. Expertise includes creating data pipelines and complex data integration using tools like Syniti Cransoft, SAP BODS, and Talend, as well as data modeling with MySQL Data Modeler and SSMS. Successfully managed end-to-end data migration projects for GE Infrastructure businesses, including GE Oil & Gas and GE Aviation. Experienced in handling large datasets, skills further enhanced with 600 hours of Data Engineering training at Per Scholas and Data Analyst training with MARS Returnship. Developed a command line application with Python and PySpark, integrating data processing and ETL functionalities, and utilized GitHub and Jenkins for CI/CD pipelines. Holds AWS and Azure Cloud Fundamental certifications and a SAFe Scrum Master certification. Currently seeking Data Engineer or Data Analyst roles to leverage expertise and deliver impactful results.
 
 Looking for Opportunities
 I am actively seeking roles as a Data Analyst or Data Engineer where I can leverage my extensive learning and experience. I am committed to transforming raw data into actionable insights and ensuring that every report I produce is accurate, insightful, and tailored to drive informed decision-making.
